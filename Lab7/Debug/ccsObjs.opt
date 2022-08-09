@@ -1,0 +1,1 @@
+"./lab7_main.obj" "./pwmbuzzer.obj" "./pwmbuzzer_asm.obj" "./pwmbuzzer_asm_direct.obj" "./pwmled.obj" "./pwmled_asm.obj" "./ras.obj" "./ras_asm.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" -l"C:/Users/perth/OneDrive/Desktop/College Stuff/4. ECE 266/LabGroupA1/Util/Debug/Util.lib" 
